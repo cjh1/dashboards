@@ -1,4 +1,5 @@
 #!/bin/bash
+export DISPLAY=:0
 export PATH=/home/dash/cmake-build/bin:$PATH
 export DASHTYPE=Continuous
 export DASHROOT=/home/dash/dashboards/mytests
